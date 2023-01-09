@@ -21,7 +21,7 @@ bigger updates creating every 3 or even more monthes.
 + Launch the game
 + On the Game Main Menu, Go to 'Options... -> Resource Packs...'
 + Click 'Open Pack Folder'
-+ Drag the Resource Packs file into the folder.
++ Unzip the Resource Pack into a folder 'resourcepacks'
 + Now In Resource Packs Menu, Apply the resource pack.
 
 # License
