@@ -1,0 +1,53 @@
+{
+	"credit": "Made by DT 2022",
+	"textures": {
+		"1": "optifine/cit/model/lelo/lelo.png"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 4],
+			"to": [12, 1, 13],
+			"faces": {
+				"north": {"uv": [3.08148, 15, 12.08148, 16], "texture": "#1"},
+				"east": {"uv": [2.81481, 15, 11.81481, 16], "texture": "#1"},
+				"south": {"uv": [2.04444, 15, 11.04444, 16], "texture": "#1"},
+				"west": {"uv": [1.58519, 14.43704, 11.1037, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [0, 14.25185, 15.68889, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 0, -90],
+			"translation": [7.75, -2.25, -0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -1, 90],
+			"translation": [-7.25, -2.25, -0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [32, 0, 0],
+			"translation": [0, 6.25, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [32, 0, 0],
+			"translation": [0, 6.25, 0]
+		},
+		"ground": {
+			"translation": [0, 6.5, 0]
+		},
+		"gui": {
+			"rotation": [65, -16, 10],
+			"translation": [-0.5, 3.75, 0]
+		},
+		"head": {
+			"translation": [0, 10.75, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [1, -0.75, -16.75],
+			"scale": [2, 2, 2]
+		}
+	}
+}

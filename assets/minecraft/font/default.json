@@ -1,0 +1,796 @@
+{
+    "providers": [
+       {
+         "type": "bitmap",
+         "file": "reacts:pcraft/logo.png",
+         "ascent": 20,
+         "height": 80,
+         "chars": [
+            "\u29CD"
+            ]
+        },
+                   {
+         "type": "bitmap",
+         "file": "reacts:emotes/vlad.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u25CA"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:pcraft/singleplayer.png",
+         "ascent": 12,
+         "height": 16,
+         "chars": [
+            "\u25FE"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:pcraft/glmp2.png",
+         "ascent": 12,
+         "height": 16,
+         "chars": [
+            "\uAA6B"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:pcraft/exit.png",
+         "ascent": 12,
+         "height": 16,
+         "chars": [
+            "\u28C9"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:pcraft/realms.png",
+         "ascent": 12,
+         "height": 16,
+         "chars": [
+            "\u2715"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:pcraft/multiplayer.png",
+         "ascent": 12,
+         "height": 16,
+         "chars": [
+            "\u25FF"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:pcraft/logo2.png",
+         "ascent": 30,
+         "height": 60,
+         "chars": [
+            "\u0543"
+            ]
+        },	
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/kverti.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u0972"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/trispir.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u0AAB"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/area.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u0AAC"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/hotline.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u09FA"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/kalu.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u0AB6"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/angrydm.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u1300"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/boreddm.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u1301"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/dislikedm.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u1302"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/likedm.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u1303"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/facepalmdm.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u1304"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/hzdm.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u1305"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/likedm.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u1306"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/thxdm.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u1307"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/angryk.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA840"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/boredk.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA841"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/dislikek.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA842"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/likek.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA843"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/hzk.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA844"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/facepalmk.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA845"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/thxk.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA846"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/angrys.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA850"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/boreds.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA851"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/dislikes.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA852"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/likes.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA853"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/facepalms.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA854"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/hzs.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA855"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/thxs.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA856"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/angryt.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA860"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/boredt.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA861"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/disliket.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA862"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/liket.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA863"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/facepalmt.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA864"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/hzt.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA865"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/thxt.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA866"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/angrya.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA760"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/boreda.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA761"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/dislikea.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA762"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/likea.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA763"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/facepalma.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA764"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/hza.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA765"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/thxa.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA766"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/angryar.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA560"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/boredar.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA561"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/dislikear.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA562"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/likear.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA563"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/facepalmar.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA564"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/hzar.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA565"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/thxar.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\uA566"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/thx.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u0A72"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/thxd.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u0A73"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/thxm.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u0A74"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/thxq.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u0AB2"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/facepalmd.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u0973"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/facepalmm.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u0974"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/facepalmq.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u0975"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/hzd.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u0976"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/hzm.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u0977"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/hzq.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u0978"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/angryd.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u0979"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/angrym.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u097A"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/angryq.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u097B"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/boredd.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u097C"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/boredm.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u097D"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/disliked.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u09E7"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/liked.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u09E8"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/dislikeq.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u09E9"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/likeq.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u09EB"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/dislikem.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u09EC"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/likem.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u09ED"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/boredq.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u097E"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/mider.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u01B9"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/angry.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u0244"
+            ]
+        },       
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/bored.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u0271"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/like.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u02AC"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/dislike.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u00DF"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/facepalm.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u01F7"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/hz.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u028C"
+            ]
+        },	
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/arzan.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u029A"
+            ]
+        },	
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/deiff.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u02A4"
+            ]
+        },	
+        {
+         "type": "bitmap",
+         "file": "reacts:emotes/dimoshka.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": [
+            "\u0267"
+            ]
+        }
+    ]
+}
