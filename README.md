@@ -4,6 +4,8 @@
     <h3 align="center">Minecraft Resource Pack with Glome Faces, 3d , cit and cem optifine textures.</a>
 </p>
 
+[![downloads](https://img.shields.io/modrinth/dt/7gYIe8Sp?label=downloads&logo=modrinth)](https://modrinth.com/resourcepack/glome-pack)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Deiffery/glome-pack?logo=github)](https://github.com/Deiffery/glome-pack/)
 # About Resource Pack...
 Every block and item has been changed to Glome Squad style,
 with 3d modeled textures and optifine replacement textures.
